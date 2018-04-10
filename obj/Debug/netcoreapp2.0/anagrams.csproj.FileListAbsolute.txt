@@ -1,0 +1,13 @@
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/anagrams.deps.json
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/anagrams.runtimeconfig.json
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/anagrams.runtimeconfig.dev.json
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/anagrams.dll
+/Users/jenobyrne/Documents/Dev/anagrams/bin/Debug/netcoreapp2.0/anagrams.pdb
+/Users/jenobyrne/Documents/Dev/anagrams/obj/Debug/netcoreapp2.0/anagrams.csproj.CoreCompileInputs.cache
+/Users/jenobyrne/Documents/Dev/anagrams/obj/Debug/netcoreapp2.0/anagrams.AssemblyInfoInputs.cache
+/Users/jenobyrne/Documents/Dev/anagrams/obj/Debug/netcoreapp2.0/anagrams.AssemblyInfo.cs
+/Users/jenobyrne/Documents/Dev/anagrams/obj/Debug/netcoreapp2.0/anagrams.dll
+/Users/jenobyrne/Documents/Dev/anagrams/obj/Debug/netcoreapp2.0/anagrams.pdb
